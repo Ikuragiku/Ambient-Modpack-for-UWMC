@@ -38,6 +38,9 @@ Hinweis: Alle Mods waren zum Zeitpunkt der Erstellung dieses Beitrags vom Team g
 - **Status Effect Bars**: Grafisch überarbeitete Anzeige aktiver Effekte
 - **UWMATICA**: Sollte bekannt sein
 - **WorldEdit**: Standardmäßig deaktiviert, Nutzung nur im Singleplayer möglich
+- **Cool Rain**: Fügt dynamische Sounds bei Regen hinzu, sodass dieser sich anders anhört je, nachdem auf welchem Block er trifft
+- **Visuality**: Fügt einige kleinere Animationen und Partikel für Mobs und Umgebung hinzu (bei schlechter Performance deaktivieren)
+- **Subtle Effects**: Fügt eine Menge neuer Animationen, welche frei konfigurierbar sind hinzu (siehe wiki , bei schlechter Performance deaktivieren)
 
 ## Kann ich Mods deaktivieren oder hinzufügen?
 
